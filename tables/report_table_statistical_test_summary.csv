@@ -1,0 +1,10 @@
+test_area,test_used,statistic,df,p_value_display,effect_size,main_result
+Persona order,Chi-square goodness-of-fit,31.34,2.0,< .001,Cramer's V = 0.137,Significant order effect; P3 selected most often and P1 least often.
+Gender,Chi-square test,1.42,2.0,0.491,Cramer's V = 0.025,Not significant; gender alone was not a strong selection factor.
+Age,Welch's t-test,-3.29,,0.001,Cohen's d = -0.142,Selected personas were slightly younger; small effect.
+Years of experience,Welch's t-test,-2.14,,0.033,Cohen's d = -0.100,Selected personas had slightly fewer years of experience; very small effect.
+Experience group,Chi-square test,31.5,3.0,< .001,Cramer's V = 0.120,Significant; <5 years group had the highest selected rate.
+Education group,Chi-square test,5.76,1.0,0.016,Cramer's V = 0.051,Significant but small; high school/bachelor group selected more often.
+Location region,Chi-square test,0.34,1.0,0.560,Cramer's V = 0.013,Not significant; Global North/South did not strongly affect selection.
+Work domain,Chi-square test,15.15,9.0,0.087,Cramer's V = 0.081,Not significant; suggestive differences but weak evidence.
+Public-facing domain,Chi-square test,2.84,1.0,0.092,Cramer's V = 0.035,Not significant; public-facing roles selected slightly more often.

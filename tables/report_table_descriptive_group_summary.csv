@@ -1,0 +1,12 @@
+group_type,group_label,total,selected,selected_rate_percent
+Gender,Female,1320,451,34.17
+Gender,Male,875,279,31.89
+Gender,Non-binary,67,24,35.82
+Experience group,11-16,124,25,20.16
+Experience group,17+,91,28,30.77
+Experience group,5-10,1230,369,30.0
+Experience group,<5,762,305,40.03
+Education group,High school/Bachelor,1297,458,35.31
+Education group,Master/PhD,932,283,30.36
+Location region,Global North,877,287,32.73
+Location region,Global South,1151,392,34.06

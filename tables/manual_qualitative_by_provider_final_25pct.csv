@@ -1,0 +1,6 @@
+provider_family,evidence_supported_percent,harmful_or_weak_percent,stereotype_or_bias_percent,unclear_percent
+Falcon,90.0,10.0,7.5,0.0
+Google-Gemma,83.33,16.67,9.52,0.0
+Microsoft-Phi,88.1,11.9,2.38,0.0
+Mistral,73.81,26.19,0.0,7.14
+Qwen,97.67,2.33,0.0,0.0

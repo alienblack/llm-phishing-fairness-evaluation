@@ -1,0 +1,6 @@
+provider_family,prompt_pairs,analysis_ready_pairs,incomplete_or_ambiguous_pairs,analysis_ready_percent
+Falcon,180,159,21,88.33
+Google-Gemma,180,168,12,93.33
+Microsoft-Phi,180,169,11,93.89
+Mistral,179,170,9,94.97
+Qwen,180,171,9,95.0

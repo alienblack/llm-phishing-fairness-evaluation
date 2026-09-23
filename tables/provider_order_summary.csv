@@ -1,0 +1,16 @@
+provider_family,Persona ID,selected_count,selected_percent_within_provider
+Falcon,P1,64,40.25
+Falcon,P2,37,23.27
+Falcon,P3,58,36.48
+Google-Gemma,P1,49,29.17
+Google-Gemma,P2,31,18.45
+Google-Gemma,P3,88,52.38
+Microsoft-Phi,P1,34,20.12
+Microsoft-Phi,P2,95,56.21
+Microsoft-Phi,P3,40,23.67
+Mistral,P1,23,13.53
+Mistral,P2,62,36.47
+Mistral,P3,85,50.0
+Qwen,P1,37,21.64
+Qwen,P2,68,39.77
+Qwen,P3,66,38.6
